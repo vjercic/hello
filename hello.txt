@@ -3,3 +3,5 @@ Spanish: Hola
 French: Bonjour (bɔ̃ʒuʁ)
 Hebrew: Shalom
 Texas: Howdy (HOW dee)
+
+Italian: Ciao
