@@ -10,3 +10,6 @@ Cowsay:
             (__)\       )\/\
                 ||----w |
                 ||     ||
+Hebrew: Shalom
+Texas: Howdy (HOW dee)
+Italian: Ciao
