@@ -1,7 +1,15 @@
 Mandarin Chinese: 你好 (Nǐ hǎo)
 Spanish: Hola 
 French: Bonjour (bɔ̃ʒuʁ)
+Cowsay:
+ ________
+< Moooo! >
+ --------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 Hebrew: Shalom
 Texas: Howdy (HOW dee)
-
 Italian: Ciao
